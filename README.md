@@ -8,7 +8,7 @@ A component for rendering Markdown in React Native with native components, worki
 
 ## Getting started
 
-`yarn add react-native-simple-markdown`
+`npm i @stonecutter/react-native-simple-markdown`
 
 ## Future
 
@@ -16,12 +16,12 @@ This library is currently being (kinda) completely rewritten. If you've been usi
 
 ## Usage
 
-All you need to do is import the `react-native-simple-markdown` and then use the
+All you need to do is import the `@stonecutter/react-native-simple-markdown` and then use the
 `<Markdown />` component.
 
 ```js
 import React from 'react'
-import Markdown from 'react-native-simple-markdown'
+import Markdown from '@stonecutter/react-native-simple-markdown'
 
 const MyAwesomeApp = () => {
   return (
