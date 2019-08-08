@@ -1,7 +1,7 @@
 {
   "name": "@stonecutter/react-native-simple-markdown",
   "repository": "https://github.com/stonecutter/react-native-simple-markdown",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Render Markdown in React Native with native components (iOS & Android)",
   "main": "lib/index.js",
   "files": [
